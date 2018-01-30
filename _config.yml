@@ -72,11 +72,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+theme: aero-dual
+# theme_style is default to 'light'
+# theme_style: dark
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/pengzepz/pengzepz.github.io.git
-  branch: master
+  # type: git
+  # repo: git@github.com:pengzepz/blogs.git
+  # branch: master
