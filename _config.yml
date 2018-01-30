@@ -78,6 +78,6 @@ theme: aero-dual
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  # type: git
-  # repo: git@github.com:pengzepz/blogs.git
-  # branch: master
+  type: git
+  repo:  git@www.pengzea.cn:/home/pz/repo/blog.git
+  branch: master
